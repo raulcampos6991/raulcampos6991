@@ -131,7 +131,7 @@ entornos dinámicos que promuevan el crecimiento profesional y el desarrollo con
 ###
 
 <div align="center">
- [![GitHub Streak](https://streak-stats.demolab.com?user=raulcampos6991&theme=dark&hide_border=true)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raulcampos6991&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 
